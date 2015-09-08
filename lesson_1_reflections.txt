@@ -1,0 +1,5 @@
+How did viewing diff between two versons of a file hlep you see the bug was introduced?
+By comparing it was easy to see differences and search through the differences rather than the whole text.
+
+How could having easy access to the entire history of a file make you more efficient programmer int he long term?
+Reflecting on past choices and why they were made will allow for an easier understanding of the thought process during the time of the decisions. This will improve the value of reflection and learning.
